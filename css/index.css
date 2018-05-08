@@ -1,0 +1,36 @@
+h3 {
+    text-align: left;
+}
+p {
+    text-align: left;
+}
+
+.red{
+    color: red;
+    text-align: left;
+}
+
+h5{
+    text-align: left;
+    color: grey;
+}
+
+/*redimentionner logos*/
+
+img {
+	width: 75px;
+	height: 75px;
+}
+img {
+	max-width: 100%;
+    vertical-align: center;
+}
+   
+img {
+	max-width: 100%;
+	height: auto;
+}
+/*alignement logos 1er rang*/
+ div {
+    text-align: center;
+}
